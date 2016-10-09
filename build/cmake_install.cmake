@@ -1,4 +1,4 @@
-# Install script for directory: /Users/sdcar/Desktop/SDC_Test/gazebo_plugin_tutorial
+# Install script for directory: /Users/awr/Desktop/gazebo
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/sdcar/Desktop/SDC_Test/gazebo_plugin_tutorial/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/awr/Desktop/gazebo/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
