@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/awr/Desktop/gazebo/sdcWaypoint.cc
+stdio.h
+-
+sdcWaypoint.hh
+/Users/awr/Desktop/gazebo/sdcWaypoint.hh
+
+/Users/awr/Desktop/gazebo/sdcWaypoint.hh
+iostream
+-
+vector
+-
+

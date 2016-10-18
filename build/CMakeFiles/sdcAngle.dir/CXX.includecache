@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/awr/Desktop/gazebo/sdcAngle.cc
+stdio.h
+-
+sdcAngle.hh
+/Users/awr/Desktop/gazebo/sdcAngle.hh
+
+/Users/awr/Desktop/gazebo/sdcAngle.hh
+math.h
+-
+iostream
+-
+

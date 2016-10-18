@@ -19,6 +19,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/local/Cellar/ogre/1.7.4/include"
   "/usr/local/Cellar/ogre/1.7.4/include/OGRE/Terrain"
   "/usr/local/Cellar/ogre/1.7.4/include/OGRE/Paging"
+  "/usr/local/include/opencv"
   )
 
 # Targets to which this target links.
